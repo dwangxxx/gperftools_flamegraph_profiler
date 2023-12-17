@@ -1,5 +1,9 @@
 # Use gperftools cpu profiler to profile code and convert the profiler result to flamegraph
 
+```Bash
+git clone --recursive git@github.com:dwangxxx/gperftools_flamegraph_profiler.git
+```
+
 ## 1. Install gperftools
 
 ```Bash
