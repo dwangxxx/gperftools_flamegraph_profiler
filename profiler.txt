@@ -1,0 +1,2 @@
+_start;__libc_start_main@GLIBC_2.17;__libc_init_first@@GLIBC_2.17;main;FuncA() 451
+_start;__libc_start_main@GLIBC_2.17;__libc_init_first@@GLIBC_2.17;main;FuncB() 467
